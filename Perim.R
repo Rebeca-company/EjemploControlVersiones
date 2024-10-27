@@ -2,4 +2,6 @@ PCuadrado <- function(L){
   return(4*L)
 }
 
-# comentario de prueba
+LCirc <- function(r){
+  return(pi*2*r)
+}
