@@ -30,3 +30,11 @@ h <- 3
 b <- 3
 Area_Triangulo <- b*h/2
 ```
+
+# Área rectángulo
+
+```{r}
+LadoR <- 3
+BaseR <- 4
+Area_Rectangulo <- LadoR*BaseR
+```
