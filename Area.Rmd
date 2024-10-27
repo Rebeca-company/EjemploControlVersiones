@@ -22,3 +22,11 @@ Area_Circulo <- pi*r^2
 Lado <- 3
 Area_Cuadrado <- Lado^2
 ```
+
+# Área triángulo
+
+```{r}
+h <- 3
+b <- 3
+Area_Triangulo <- b*h/2
+```
